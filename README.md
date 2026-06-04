@@ -1,31 +1,32 @@
-# Oriane Nyikeine — Développeuse Web & Designer
+# Oriane Nyikeine — Web Developer & Designer
 
-Développeuse web indépendante basée à Dijon, France.  
-Je construis des sites qui fonctionnent vraiment — lisibles, rapides, et pensés pour les gens qui les utilisent.
+Independent web developer based in Dijon, France.
+I build sites that actually work — readable, fast, and designed for the people who use them.
 
-Je travaille avec WordPress, Webflow, Figma et GrapesJS, et j'intègre l'IA dans mon workflow pour livrer plus vite et mieux.
+I work with WordPress, Webflow, Figma and GrapesJS, and integrate AI into my workflow to deliver faster and better.
 
 ---
 
-## Projets
+## Projects
 
-| Projet | Type | Outils |
-|--------|------|--------|
-| [WebBuilder Studio](https://github.com/oriane-nyikeine/webbuilder-studio) | Éditeur web no-code | GrapesJS · Next.js · TypeScript |
-| [Aurora](https://github.com/oriane-nyikeine/aurora-web3) | Branding Web3 | Figma · Webflow |
-| [Froggie Pop](https://github.com/oriane-nyikeine/froggie-pop-web3) | Branding Web3 | Figma · Webflow |
+| Project | Type | Tools |
+|---------|------|-------|
+| [WebBuilder Studio](https://github.com/oriane-nyikeine/webbuilder-studio) | No-code web editor | GrapesJS · Next.js · TypeScript |
+| [Aurora](https://github.com/oriane-nyikeine/aurora-web3) | Web3 branding | Figma · Webflow |
+| [Froggie Pop](https://github.com/oriane-nyikeine/froggie-pop-web3) | Web3 branding | Figma · Webflow |
+| [Cryptonomic](https://github.com/oriane-nyikeine/cryptonomic) | Crypto news site | WordPress |
 
 ---
 
 ## Stack
 
-**Web & Design**  
+**Web & Design**
 Webflow · WordPress · Figma · GrapesJS · HTML/CSS · JavaScript
 
-**Data & Analyse**  
+**Data & Analytics**
 Python · SQL · Power BI · Excel (VBA, Power Query)
 
-**IA & Outils**  
+**AI & Tools**
 Claude · ChatGPT · Relume
 
 ---
