@@ -11,12 +11,9 @@ Je travaille avec WordPress, Webflow, Figma et GrapesJS, et j'intègre l'IA dans
 
 | Projet | Type | Outils |
 |--------|------|--------|
-| [WebBuilder Studio](https://github.com/Oriane172839/webbuilder-studio) | Éditeur web no-code | GrapesJS · HTML/CSS · JS |
-| [Cryptonomic](https://github.com/Oriane172839/cryptonomic-fr-child) | Site médias crypto | WordPress |
-| [Horizon Media](https://github.com/Oriane172839/horizon-media-fr-child) | Site médias indépendant | WordPress |
-| [Les RH O'Naturels](https://github.com/Oriane172839/les-rh-onaturel-child) | Site vitrine RH | WordPress |
-| [Aurora](https://github.com/Oriane172839/aurora-web3) | Branding Web3 | Figma · Webflow |
-| [Froggie Pop](https://github.com/Oriane172839/froggie-pop-web3) | Branding Web3 | Figma · Webflow |
+| [WebBuilder Studio](https://github.com/oriane-nyikeine/webbuilder-studio) | Éditeur web no-code | GrapesJS · Next.js · TypeScript |
+| [Aurora](https://github.com/oriane-nyikeine/aurora-web3) | Branding Web3 | Figma · Webflow |
+| [Froggie Pop](https://github.com/oriane-nyikeine/froggie-pop-web3) | Branding Web3 | Figma · Webflow |
 
 ---
 
