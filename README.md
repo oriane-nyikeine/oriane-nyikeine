@@ -21,6 +21,7 @@ I work with WordPress, Webflow, Figma and GrapesJS, and integrate AI into my wor
 | [Les RH O'Naturels](https://github.com/oriane-nyikeine/les-rh-onaturel) | lesrhonaturel.fr |
 | [Save Your Job From AI](https://github.com/oriane-nyikeine/save-your-job-from-ai) | saveyourjobfromai.com |
 | [Horizon Media](https://github.com/oriane-nyikeine/horizon-media) | horizonsmedia.fr |
+| [CFinance Media](https://github.com/oriane-nyikeine/cfinance-media) | cfinancemedia.net |
 | [AI Noobies](https://github.com/oriane-nyikeine/ai-noobies) | ainoobies.net |
 
 ---
