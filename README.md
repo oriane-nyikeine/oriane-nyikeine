@@ -1,9 +1,6 @@
 # Oriane Nyikeine | Web Developer & Designer
 
-Independent web developer based in Dijon, France.
-I build sites that actually work: readable, fast, and designed for the people who use them.
-
-I work with WordPress, Webflow, Figma and GrapesJS, and integrate AI into my workflow to deliver faster and better.
+Freelance web developer, building websites for direct clients and agencies: WordPress, Webflow, or pure code when the project calls for it. I use Claude Code in my workflow to move faster on the structural parts and focus on design and coherence. Available remote.
 
 ---
 
